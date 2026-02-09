@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Percia Princess 👋
 
-<!--
-**perciaprincess/perciaprincess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer with 12+ years of software development experience and nearly 2 years of hands-on experience in AI and Machine Learning.
 
-Here are some ideas to get you started:
+### 🔹 Skills
+- Machine Learning, Deep Learning, NLP
+- Python, TensorFlow, PyTorch, scikit-learn
+- Model deployment using Streamlit
+- Data preprocessing, feature engineering, model evaluation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Projects
+- Reference Automation (NLP, Random Forest, spaCy)
+- Label Detection and Removal (Logistic Regression)
+- Churn Prediction using Ensemble Models
+- Clinical Decision Support System for Melanoma Detection (CNNs, Vision Transformers)
+
+### 🔹 Interests
+- Applied Machine Learning
+- Generative AI
+- Model Deployment
